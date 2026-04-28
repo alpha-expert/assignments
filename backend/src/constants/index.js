@@ -1,7 +1,7 @@
 const { ERROR_MESSAGES } = require("./error-messages");
 const API_HOST = 'chainlink-api-v3.live';
 const API_SUB_URL = 'service/token';
-const SAMPLE_API_KEY = 'f71d1d9b2de7d4ebf5f706a4b9cd4eb4';
+const SAMPLE_API_KEY = '0d0c9c4db6953fee1a7a7d9d5a0f28a7';
 const API_HEADERS = {
   "x-secret-header": "secret",
 };
